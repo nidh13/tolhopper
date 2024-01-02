@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg height="48px" version="1.1" viewBox="0 0 48 48" width="48px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g fill="none" fill-rule="evenodd" id="road" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect fill="white" fill-opacity="0.01" height="48" width="48"/>
+        <g id="编组" stroke="#000000" stroke-width="8" transform="translate(6.000000, 5.091863)">
+            <path d="M5,0.908136641 L0,36.9081366" id="路径-9"/>
+            <path d="M36.9287415,0.908136641 L31.9643708,36.8633744" id="路径-9" transform="translate(33.964371, 18.886476) scale(-1, 1) translate(-33.964371, -18.886476)"/>
+            <path d="M18,0.908136641 L18,6.90813664" id="路径-10"/>
+            <path d="M18,29.9081366 L18,36.9081366" id="路径-10"/>
+            <path d="M18,14.9081366 L18,21.9081366" id="路径-10"/>
+        </g>
+    </g>
+</svg>

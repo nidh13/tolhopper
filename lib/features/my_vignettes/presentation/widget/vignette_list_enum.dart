@@ -1,0 +1,4 @@
+enum VignettesListEnum{
+  active,
+  expired,
+}

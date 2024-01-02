@@ -1,0 +1,508 @@
+{
+  "my_app_name": "Toll Hopper",
+  "skip_text": "Skip",
+  "register": {
+    "title": "Let’s get started",
+    "sub_title": "Fill basic details to continue",
+    "gender_title": "Salutation",
+    "gender_hint": "Select",
+    "first_name_title": "First Name",
+    "first_name_hint": "Enter your first Name",
+    "last_name_title": "Last Name",
+    "last_name_hint": "Entre your last name",
+    "email_title": "Email",
+    "email_hint": "Enter your email here",
+    "re_email_title": "Repeat Email",
+    "re_email_hint": "Re-enter your email",
+    "password_title": "Password",
+    "re_password_title": "Repeat Password",
+    "re_password_hint": "Re-enter your password",
+    "password_hint": "Entre your password",
+    "checkbox_text": "By continuing you agree to toll hopper Terms and conditions, Privacy Policy.",
+    "button_text": "Register",
+    "gender_nothing": "Nothing",
+    "gender_male": "Mr",
+    "gender_female": "Mrs",
+    "success_message": "your account has been created successfully"
+  },
+  "login": {
+    "title": "Sign in",
+    "keep_login": "Keep me logged in",
+    "forget_password": "Forgot Password?",
+    "dont_have_account": "Don’t have an account?",
+    "register_here": "Register here",
+    "or_sign_in_with": "Or Sign in with",
+    "continue_as_guest": "Continue as a guest",
+    "pop_up_wrong_credential_title": "Notice",
+    "pop_up_wrong_credential_confirm_button": "OK"
+  },
+  "home": {
+    "home_bar": "Home",
+    "route_plan": "Route Plan",
+    "cart": "Cart",
+    "calculator": "Toll Calculator",
+    "news": "News",
+    "vignette": "Vignette"
+  },
+  "route_plan": {
+    "app_bar_title": "Route Planner",
+    "search": "Search",
+    "input_label": "Please enter your desired location",
+    "input_hint": "Enter Location"
+  },
+  "home_tab": {
+    "title": "Find your packages",
+    "choose": "Choose",
+    "validity_text": "Valid Immediately Or Later If Desired."
+  },
+  "cart_tab": {
+    "checkout": "Checkout",
+    "app_bar_title": "Cart",
+    "empty_cart_text": "Your Cart is Empty",
+    "delete_product_popUp_text": "Do you want to delete this product?",
+    "delete_product_popUp_yes_button": "Confirm",
+    "delete_product_popUp_no_button": "Cancel",
+    "add_product_pop_up_title": "Notice",
+    "add_product_pop_up_text": "Our product was added to your Cart",
+    "add_product_pop_up_ok_button": "Ok"
+  },
+  "calculator_tab": {
+    "start": "Start",
+    "destination": "Destination",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "select_date_hint": "Select Date",
+    "select_car_hint": "Select Vehicle Type",
+    "app_bar_title": "Toll Calculator"
+  },
+  "route_trajectory": {
+    "app_bar_title": "Route Trajectory",
+    "see_on_map": "See on map"
+  },
+  "toll_selection": {
+    "app_bar_title": "Your Trip",
+    "vignette": "Vignette",
+    "tolls": "Tolls",
+    "start": "Start",
+    "end": "End",
+    "digital_vignette": "Digital Vignette",
+    "digital_toll": "Digital Route Toll",
+    "return_text": "Book return toll fee",
+    "select_something": "Please Select Something!",
+    "confirm_dialog": "Ok",
+    "dialog_title": "Notice",
+    "continue_dialog_title": "Notice",
+    "continue_dialog_text": "Do you want to continue checkout",
+    "continue_dialog_confirm_button": "Yes",
+    "continue_dialog_cancel_button": "No",
+    "annual_card": "Annual Card",
+    "price_from": "From"
+  },
+  "license_information": {
+    "app_bar_title": "License Plate Information",
+    "plate_number": "License Plate Number",
+    "plate_number_hint": "EnterLicense Plate Number",
+    "confirm_plate_number": "Confirm License Plate Number",
+    "car_name": "Car Name",
+    "car_name_hint": "Enter name here",
+    "car_model": "Car Model",
+    "car_model_hint": "Enter car model here",
+    "car_energy": "Car Energy",
+    "car_energy_hint": "Select",
+    "first_put_invalid": "The license pate is invalid",
+    "first_put_empty": "The license pate is empty",
+    "second_put_invalid": "The License plate confirmation does not match.",
+    "second_put_empty": "The License plate confirmation is empty"
+  },
+  "car_energy": {
+    "gasoline": "Gasoline",
+    "diesel": "Diesel",
+    "electric": "Electric",
+    "hybrid": "Hybrid",
+    "pluginHybrid": "Plug-in hybrid",
+    "hydrogen": "Hydrogen"
+  },
+  "cancel": "Cancel",
+  "next": "Next",
+  "choose": "Choose",
+  "save": "Save",
+  "contact_information": {
+    "app_bar_title": "Contact Information",
+    "request_an_invoice": "Request an invoice",
+    "confirm_email": "Confirm Email",
+    "company_name_title": "Company Name",
+    "company_name_hint": "Entre name here",
+    "country_title": "Country",
+    "country_hint": "Entre country Here",
+    "city_title": "City",
+    "city_hint": "Entre city Here",
+    "address_title": "Address",
+    "address_hint": "Enter address here",
+    "house_num_title": "House No",
+    "house_num_hint": "Enter here",
+    "postal_code_title": "Postal Code",
+    "postal_code_hint": "Enter here",
+    "create_account": "Create an account?",
+    "set_password": "Set Password"
+  },
+  "payment_method": {
+    "app_bar_title": "Payment Method",
+    "proceed_to_checkout": "Proceed to Checkout",
+    "credit_card": "Credit Card",
+    "paypal": "Paypal",
+    "klarna": "Klarna",
+    "sofort_uberweisung": "Sofort Überweisung",
+    "pay_now": "Pay now"
+  },
+  "checkout": {
+    "app_bar_title": "Checkout",
+    "name_label": "Name",
+    "license_pate_number": "License Plate No.",
+    "date_time": "Date & Time",
+    "order_summary": "Order Summary",
+    "package": "Package",
+    "additional_fee": "Additional fee",
+    "sub_total": "Sub total",
+    "total_amount": "Total amount",
+    "checkout": "Checkout"
+  },
+  "order_summary": {
+    "app_bar_title": "Order Summary",
+    "congratulation": "Congratulations",
+    "success_message": "Your order has been successfully placed",
+    "back_to_home": "Back to Homepage"
+  },
+  "drawer": {
+    "account_settings": "My Account",
+    "vignette": "My Vignettes",
+    "payment": "Payments",
+    "news": "News",
+    "notification": "Notification",
+    "settings": "Settings",
+    "imprint": "Imprint",
+    "support": "Support",
+    "term_conditions": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "sign_out": "Sign out",
+    "faq": "FAQ"
+  },
+  "news": {
+    "app_bar_title": "News",
+    "read_more": "More"
+  },
+  "vignettes": {
+    "app_bar_title": "Vignettes",
+    "active": "Active",
+    "expired": "Expired",
+    "downloadPdf": "Download PDF",
+    "extend": "Extend",
+    "order_date": "Order Date",
+    "validity_date": "Validity Date",
+    "vignette_no_history": "No History available"
+  },
+  "personal_settings": {
+    "personal_details": "Personal Details",
+    "company_details": "Company Details"
+  },
+  "validation": {
+    "password": "Please enter valid password",
+    "email": "Please enter valid email address",
+    "password_misMatch": "Please ensure both password fields have the same value.",
+    "required_filed": "Please fill in the required field.",
+    "validate_gender": "Please fill in the required field."
+  },
+  "server": {
+    "credentials_exception": "Invalid credentials.",
+    "customer_exist_exception": "Customer already exist.",
+    "internal_exception": "Oops! Something went wrong on our end. Please try again later.",
+    "internet_exception": "No internet connection. Please check your network settings and try again.",
+    "unexpected_exception": "An unexpected error occurred. Please try again later or contact support for assistance.",
+    "user_not_exist": "Customer is not exist.",
+    "try_again": "Try Again",
+    "no_route_text": "There is no results",
+    "unAuthenticate_exception": "Not authenticated"
+  },
+  "reset_password": {
+    "hint": "Please enter your e-mail address with which you registered",
+    "app_bar_title": "Reset Password",
+    "send": "Send",
+    "success_message": "Please check your email inbox."
+  },
+  "log_out_pop_up": {
+    "content": "Are you sure you want to log out?",
+    "title": "Logout",
+    "confirm_text": "Logout",
+    "cancel_text": "Cancel"
+  },
+  "not_available_product": {
+    "coming_soon_text": "You cannot currently purchase any products from us for this route.",
+    "coming_soon_title": "Coming Soon!",
+    "text": "There are no fees for the route you have chosen!",
+    "title": "FREE RIDE!"
+  },
+  "one_option_dialog": {
+    "date_error": "Start date should be before end date",
+    "title": "Notice",
+    "button_text": "Ok"
+  },
+  "defined_countries": {
+    "austria": "Austria",
+    "slovenia": "Slovenia",
+    "switzerland": "Switzerland",
+    "hungary": "Hungary",
+    "czech": "Czech republic",
+    "romania": "Romania"
+  },
+  "stripe_payment_pop_up_error": {
+    "try_again": "Try Again",
+    "cancel": "Cancel",
+    "text": "Something went wrong in your payment",
+    "title": "Something went wrong"
+  },
+  "paypal_payment_pop_up_error": {
+    "try_again": "Try Again",
+    "cancel": "Cancel",
+    "text": "Something went wrong in your payment",
+    "title": "Something went wrong"
+  },
+  "feature_coming_soon": "Coming soon",
+  "settings": {
+    "app_bar_name": "Settings",
+    "change_language_title": "Change Language",
+    "english": "English",
+    "german": "German"
+  },
+  "news_details": {
+    "app_bar_name": "News Blog"
+  },
+  "faq": {
+    "question1": "What is the e-vignette and how does it work?",
+    "question2": "How can I buy an e-vignette?",
+    "question3": "Can I buy an e-vignette for more than one vehicle?",
+    "question4": "Can I buy an e-vignette for a rented car?",
+    "question5": "Can I buy an e-vignette for a motorcycle or other non-motorized vehicle?",
+    "question6": "How can I pay for the e-vignette?",
+    "question7": "Where is the electronic vignette kept after purchase?",
+    "question8": "How do I activate the e-vignette?",
+    "question9": "How long is my e-vignette valid?",
+    "question10": "Do I have to stick the electronic vignette on the windshield of my vehicle?",
+    "question11": "Are there discounts for e-vignettes?",
+    "question12": "Can I use the e-vignette on all roads and highways in the country?",
+    "question13": "Can I use one country's e-vignette in another country?",
+    "question14": "What should I do if I have a problem with my e-vignette?",
+    "question15": "Can I extend the validity of my e-vignette if I need it?",
+    "question16": "What happens if I forget to buy my e-vignette?",
+    "question17": "What is the difference between vehicle types 2A and 2B in Slovenia?",
+    "question18": "Can I transfer my e-vignette to another person if I cannot use it?",
+    "question19": "Can I get a refund if I don't use my e-vignette?",
+    "question20": "Is there a 1-day vignette for Austria?",
+    "question21": "What is the difference between route toll and digital vignette?",
+    "question22": "Can I drive into the country that requires a vignette immediately after paying?",
+    "body": {
+      "question1": {
+        "description": "The e-vignette is an electronic alternative to the traditional paper vignette, which is required to use motorways and expressways. When you purchase an e-vignette, the vehicle's license plate number and the period of use are recorded in a database and stored in encrypted form."
+      },
+      "question2": {
+        "description": "To buy an e-vignette, you can usually carry out the following steps:",
+        "sub_description": "Here are some additional tips to keep in mind: ",
+        "subtitle1": {
+          "title": "Online purchase: ",
+          "description": "Visit the official website or online portal responsible for issuing e-vignettes in the country where you want to use the roads. You will need to enter information such as your license plate number and the desired period of validity of the vignette."
+        },
+        "subtitle2": {
+          "title": "Mobile App: ",
+          "description": "Download the appropriate mobile app, if available, and make the purchase directly from your smartphone."
+        },
+        "subtitle3": {
+          "title": "Points of sale: ",
+          "description": "e-vignettes can also be purchased at physical points of sale such as petrol stations, from sales partners or at border crossings."
+        },
+        "subtitle4": {
+          "title": "Prior Registration: ",
+          "description": "Some systems may require you to register or create a user account prior to purchase."
+        },
+        "subtitle5": {
+          "title": "Payment Methods: ",
+          "description": "Have your payment information ready as payment is usually made by credit card, bank transfer or sometimes other online payment methods."
+        },
+        "subtitle6": {
+          "title": "Validity: ",
+          "description": "Choose how long the vignette should be valid. There are usually options for daily, weekly, monthly or annual vignettes."
+        },
+        "subtitle7": {
+          "title": "Confirmation and proof: ",
+          "description": "After purchase, you will receive a confirmation, which you should print out or save electronically so that you can provide proof of toll payment if necessary."
+        }
+      },
+      "question3": {
+        "description": "You can buy e-vignettes for several vehicles, but you usually have to purchase a separate e-vignette for each vehicle because the vignette is tied to the vehicle's license plate. During the purchasing process, you simply enter the license plates of the different vehicles and make a separate purchase for each."
+      },
+      "question4": {
+        "description": "You can buy an e-vignette for a rented car. The procedure is similar to buying a vignette for your own vehicle, although there are some special aspects to consider:",
+        "subtitle1": {
+          "title": "License plate information: ",
+          "description": "You need the license plate of the rental vehicle to purchase the vignette. Make sure you get this information before purchasing the vignette."
+        },
+        "subtitle2": {
+          "title": "Time of purchase: ",
+          "description": "Ideally, purchase the vignette only after you have taken delivery of the vehicle to ensure that you have the correct license plate and the relevant vehicle data to hand."
+        },
+        "subtitle3": {
+          "title": "Rental period: ",
+          "description": "Make sure that the validity period of the e-vignette corresponds to the rental period of the vehicle."
+        },
+        "subtitle4": {
+          "title": "Refund and transfer: ",
+          "description": "Please note that e-vignettes are generally non-refundable and are tied to a specific license plate. So they cannot be transferred from one vehicle to another."
+        },
+        "subtitle5": {
+          "title": "Communication with the rental company: ",
+          "description": "Inform the rental car company about your purchase of the e-vignette, as some companies may already have this included in the rental price or offer special arrangements for toll fees."
+        }
+      },
+      "question5": {
+        "description": "The e-vignette is usually intended for motorized vehicles, especially cars and trucks up to a certain weight. There are often special vignettes that you can purchase for motorcycles, as they are included in the motorized vehicle category and also use the roads that are subject to tolls. Bicycles, horse-drawn carriages and other non-motorized vehicles are generally not charged tolls and therefore no vignette is required. These types of vehicles are usually exempt from tolls because they do not use motorways and expressways in the same way as motorized vehicles."
+      },
+      "question6": {
+        "description": "You can pay for an e-vignette in different ways, depending on the options offered by the provider or the system that issues the vignette. Here are some common payment methods: Credit Cards, Debit Cards, PayPal, Google Pay, Apple Pay, Local Online Payment Services"
+      },
+      "question7": {
+        "description": "After purchasing an e-vignette, the information is usually stored electronically in a central database. In contrast to traditional paper vignettes that are stuck on the windshield, the e-vignette does not have a physical sticker. Registration is completely digital. After your purchase, you will usually receive a proof of purchase or confirmation by email or in the app you used. It is advisable to save this confirmation so that you can prove that you have paid the toll fees if necessary."
+      },
+      "question8": {
+        "description": "Activation of an e-vignette occurs automatically at the time of purchase, unless a different start time is specified. It is important to note that the exact process and requirements may vary depending on the country and relevant authority."
+      },
+      "question9": {
+        "description": "The validity period of an e-vignette varies depending on the product you choose and the country in which it is used. Options:",
+        "subtitle1": {
+          "title": "Short-term vignettes: ",
+          "description": "These are often available for a short duration such as a day, a week or a month. They are suitable for short trips or vacations."
+        },
+        "subtitle2": {
+          "title": "Annual vignettes: ",
+          "description": "This option is intended for people who use motorways and expressways regularly or for long periods of time. An annual vignette is normally valid for 12 months from the start date or the specified year of validity."
+        },
+        "subtitle3": {
+          "title": "Flexible start date: ",
+          "description": "Some e-vignettes offer the option to choose the start date, allowing you to purchase the vignette in advance and schedule its activation for a specific time in the future."
+        }
+      },
+      "question10": {
+        "description": "With an electronic vignette (e-vignette), you don't have to attach anything to the windshield of your vehicle. The e-vignette is a digital version of the traditional paper vignette and is tied to your vehicle's license plate, not a physical sticker."
+      },
+      "question11": {
+        "description": "As a rule, the costs for adhesive vignettes and electronic vignettes are identical. Price advantages can arise by selecting the appropriate vignette. An annual vignette, for example, can be cheaper depending on your personal driving profile ."
+      },
+      "question12": {
+        "description": "The validity of an e-vignette for all roads and motorways depends on the specific toll regulations of the respective country. In many countries, the e-vignette entitles you to use all toll motorways and expressways. However, there are also cases in which certain roads, bridges, tunnels or sections of route are billed separately and are not covered by the general vignette."
+      },
+      "question13": {
+        "description": "No, e-vignettes are usually country-specific and are only valid for the country in which they were issued. Each country has its own toll system and its own rules regarding road usage charges. An e-vignette you purchase for one country is not valid for using roads or highways in another country."
+      },
+      "question14": {
+        "description": "If you have a problem with your e-vignette, you should take the following steps:",
+        "subtitle1": {
+          "title": "Check the details: ",
+          "description": "Make sure all the information you provided when registering your e-vignette is correct. This includes the license plate, the vehicle type and the period of validity."
+        },
+        "subtitle2": {
+          "title": "Secure proof of purchase: ",
+          "description": "Have your proof of purchase or another form of proof ready that confirms that you have purchased the e-vignette."
+        },
+        "subtitle3": {
+          "title": "Contact customer service: ",
+          "description": "Contact customer service of the provider from whom you purchased the e-vignette. Many problems can be solved through support."
+        },
+        "subtitle4": {
+          "title": "Check online account: ",
+          "description": "If you used an online account to purchase the sticker, check this account for information about your purchase and the status of your sticker."
+        },
+        "subtitle5": {
+          "title": "Document error messages: ",
+          "description": "If you encounter error messages when accessing your online account or other aspects of the e-Vignette system, document them to present to customer service."
+        },
+        "subtitle6": {
+          "title": "Technical assistance: ",
+          "description": "If there is a technical problem, such as an error during registration or payment, please contact the service provider for technical assistance."
+        },
+        "subtitle7": {
+          "title": "Act in a timely manner: ",
+          "description": "If you have problems with the vignette, it is important to act quickly, especially if you plan to use a toll road soon."
+        },
+        "subtitle8": {
+          "title": "Possible refund or replacement: ",
+          "description": "Inquire about the conditions for a possible refund or replacement should your vignette be faulty."
+        }
+      },
+      "question15": {
+        "description": "The possibility of extending the validity of an e-vignette depends on the specific policies of the country in which the vignette was issued. Here are some general guidelines on this topic:",
+        "subtitle1": {
+          "title": "No extension: ",
+          "description": "Many toll systems do not offer an extension for an e-vignette that has already been purchased. Instead, you have to buy a new vignette if the old one has expired."
+        },
+        "subtitle2": {
+          "title": "Buy a new one before it expires: ",
+          "description": "If you want to continue using toll roads, it is usually necessary to purchase a new e-vignette before the current validity period ends."
+        },
+        "subtitle3": {
+          "title": "Auto-renewal options: ",
+          "description": "Some systems may offer an auto-renewal feature, particularly if you have an annual vignette subscription."
+        },
+        "subtitle4": {
+          "title": "Different validity periods: ",
+          "description": "You can often choose between different validity periods when you buy an e-vignette, such as daily, weekly, monthly or annual vignettes."
+        }
+      },
+      "question16": {
+        "description": "If you forget to buy an e-vignette before using toll roads, you risk a fine in most countries. Enforcement and level of penalties vary by country, but here are some general points to keep in mind:",
+        "subtitle1": {
+          "title": "Penalties: ",
+          "description": "In many countries, toll controls are carried out both electronically and through traffic police checks. If these checks reveal that your vehicle does not have a valid vignette, a fine will usually be charged."
+        },
+        "subtitle2": {
+          "title": "Subsequent purchase: ",
+          "description": "In some cases it may be possible to purchase a vignette retrospectively if you do so immediately after discovering the failure. Some countries offer a grace period during which you can replace the vignette at no additional cost."
+        },
+        "subtitle3": {
+          "title": "Higher costs for controls: ",
+          "description": "If you are caught during a traffic stop without a valid vignette, the fines are often significantly higher than the price of the vignette itself."
+        }
+      },
+      "question17": {
+        "description": "In Slovenia, a distinction is made between toll classes 2A and 2B for two-lane vehicles with a total weight of up to 3.5 tons. The main difference between the two classes is the height above the front axle:",
+        "subtitle1": {
+          "title": "Class 2A: ",
+          "description": "Includes cars and motorhomes, including those with trailers, with a gross vehicle weight of up to 3.5 tonnes."
+        },
+        "subtitle2": {
+          "title": "Class 2B: ",
+          "description": "Refers to vehicles with two axles and a front axle height of up to 1.30 meters, which also have a permissible total weight of up to 3.5 tonnes"
+        }
+      },
+      "question18": {
+        "description": "As a rule, the e-vignette is tied to the vehicle and in particular to the license plate and is not transferable. This means that the e-vignette is valid for the registered vehicle and for the period specified in the purchase and cannot be transferred to another person, as the vehicle's license plate is immutable and the authorization to use it is linked to this license plate.\n"
+      },
+      "question19": {
+        "description": "The possibility of a refund for an e-vignette depends on the specific policies of the country or provider from which the vignette was purchased. Many toll systems do not allow refunds after purchasing an e-vignette, as it is considered a type of tax for the use of the infrastructure and the service is considered \"delivered\" once the vignette is valid."
+      },
+      "question20": {
+        "description": "From 2024, a 1-day vignette (also available as an electronic vignette) will be offered in Austria."
+      },
+      "question21": {
+        "description": "The route toll and the digital vignette are two different systems for collecting road usage fees:",
+        "sub_description": "While the digital vignette represents a blanket permit for the use of an entire road network for a fixed period of time, the route toll is charged specifically for individual routes with special infrastructure or high investment costs.",
+        "subtitle1": {
+          "title": "Route toll: ",
+          "description": "This is charged for the use of certain road sections, such as large bridges, tunnels or mountain passes. The fee is only due for actually passing these special routes and is independent of the duration of the road use. In Austria, a route toll is charged for some special routes such as the Brenner motorway, the Tauern motorway or the Arlberg tunnel."
+        },
+        "subtitle2": {
+          "title": "Digital vignette: ",
+          "description": "It is a time-based fee that grants the right to use a country's toll road network for the purchased period (e.g. 10 days, 2 months or a year). The digital vignette is an electronic version of the traditional adhesive vignette and is tied to the vehicle's license plate."
+        }
+      },
+      "question22": {
+        "description": "Normally, after paying and purchasing a digital vignette, you can drive on the roads in the relevant country that require a vignette. The digital vignette is usually activated immediately after purchase, unless a later start of the validity period has been specified. However, it is important to ensure that you have received confirmation of the purchase of the vignette and that the vignette has been correctly registered for your vehicle according to the registration number provided. Please keep the purchase confirmation safe so that you can provide proof of purchase if necessary."
+      }
+    }
+  }
+}

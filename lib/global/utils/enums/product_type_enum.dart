@@ -1,0 +1,4 @@
+enum ProductTypeEnum {
+  toll,
+  vignette,
+}

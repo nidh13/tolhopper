@@ -1,0 +1,508 @@
+{
+  "my_app_name": "Toll Hopper",
+  "skip_text": "Überspringen",
+  "register": {
+    "title": "Auf geht's",
+    "sub_title": "Grundlegende Angaben ausfüllen, um fortzufahren",
+    "gender_title": "Anrede",
+    "gender_hint": "Auswählen",
+    "first_name_title": "Vorname",
+    "first_name_hint": "Geben Sie Ihren Vornamen ein",
+    "last_name_title": "Nachname",
+    "last_name_hint": "Geben Sie Ihren Nachnamen ein",
+    "email_title": "E-Mail",
+    "email_hint": "Geben Sie hier Ihre E-Mail-Adresse ein",
+    "re_email_title": "E-Mail wiederholen",
+    "re_email_hint": "Geben Sie Ihr E-Mail erneut ein",
+    "password_title": "Passwort",
+    "re_password_title": "Passwort wiederholen",
+    "re_password_hint": "Geben Sie Ihr Passwort erneut ein",
+    "password_hint": "Geben Sie Ihr Passwort ein",
+    "checkbox_text": "Durch Fortfahren stimmen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie von Toll Hopper zu.",
+    "button_text": "Registrieren",
+    "gender_nothing": "Keine Angabe",
+    "gender_male": "Herr",
+    "gender_female": "Frau",
+    "success_message": "Ihr Konto wurde erfolgreich erstellt"
+  },
+  "login": {
+    "title": "Anmelden",
+    "keep_login": "Angemeldet bleiben",
+    "forget_password": "Passwort vergessen?",
+    "dont_have_account": "Sie haben noch kein Konto?",
+    "register_here": "Hier registrieren",
+    "or_sign_in_with": "Oder anmelden mit",
+    "continue_as_guest": "Als Gast fortfahren",
+    "pop_up_wrong_credential_title": "Hinweis",
+    "pop_up_wrong_credential_confirm_button": "OK"
+  },
+  "home": {
+    "home_bar": "Startseite",
+    "route_plan": "Routenplan",
+    "cart": "Warenkorb",
+    "calculator": "Mautrechner",
+    "news": "News",
+    "vignette": "Vignetten"
+  },
+  "route_plan": {
+    "app_bar_title": "Routenplaner",
+    "search": "Suchen",
+    "input_label": "Bitte geben Sie Ihren gewünschten Standort ein",
+    "input_hint": "Standort eingeben"
+  },
+  "home_tab": {
+    "title": "Finden Sie Ihre Pakete",
+    "choose": "Auswählen",
+    "validity_text": "Sofort gültig oder später nach Wunsch."
+  },
+  "cart_tab": {
+    "checkout": "Zur Kasse gehen",
+    "app_bar_title": "Warenkorb",
+    "empty_cart_text": "Ihr Warenkorb ist leer",
+    "delete_product_popUp_text": "Möchten Sie dieses Produkt löschen?",
+    "delete_product_popUp_yes_button": "Bestätigen",
+    "delete_product_popUp_no_button": "Abbrechen",
+    "add_product_pop_up_title": "Hinweis",
+    "add_product_pop_up_text": "Ihr Produkt befindet sich in Ihrem Warenkorb",
+    "add_product_pop_up_ok_button": "OK"
+  },
+  "calculator_tab": {
+    "start": "Start",
+    "destination": "Ziel",
+    "start_date": "Startdatum",
+    "end_date": "Enddatum",
+    "select_date_hint": "Datum auswählen",
+    "select_car_hint": "Fahrzeugtyp auswählen",
+    "app_bar_title": "Mautrechner"
+  },
+  "route_trajectory": {
+    "app_bar_title": "Routenverlauf",
+    "see_on_map": "Auf Karte anzeigen"
+  },
+  "toll_selection": {
+    "app_bar_title": "Ihre Reise",
+    "vignette": "Vignette",
+    "tolls": "Mautgebühren",
+    "start": "Start",
+    "end": "Ende",
+    "digital_vignette": "Digitale Vignette",
+    "digital_toll": "Digitale Mautgebühr",
+    "return_text": "Rückfahr-Mautgebühr buchen",
+    "select_something": "Bitte etwas auswählen!",
+    "confirm_dialog": "OK",
+    "dialog_title": "Hinweis",
+    "continue_dialog_title": "Hinweis",
+    "continue_dialog_text": "Möchten Sie den Checkout fortsetzen?",
+    "continue_dialog_confirm_button": "Ja",
+    "continue_dialog_cancel_button": "Nein",
+    "annual_card": "Jahreskarte",
+    "price_from": "Ab"
+  },
+  "license_information": {
+    "app_bar_title": "Kennzeicheninformation",
+    "plate_number": "Kennzeichennummer",
+    "plate_number_hint": "Geben Sie die Kennzeichennummer ein",
+    "confirm_plate_number": "Kennzeichennummer bestätigen",
+    "car_name": "Fahrzeugname",
+    "car_name_hint": "Name eingeben",
+    "car_model": "Fahrzeugmodell",
+    "car_model_hint": "Fahrzeugmodell eingeben",
+    "car_energy": "Fahrzeugenergie",
+    "car_energy_hint": "Auswählen",
+    "first_put_invalid": "Das Kennzeichen ist ungültig",
+    "first_put_empty": "Das Kennzeichenfeld ist leer",
+    "second_put_invalid": "Die Kennzeichenbestätigung stimmt nicht überein.",
+    "second_put_empty": "Die Kennzeichenbestätigung ist leer"
+  },
+  "car_energy": {
+    "gasoline": "Benzin",
+    "diesel": "Diesel",
+    "electric": "Elektro",
+    "hybrid": "Hybrid",
+    "pluginHybrid": "Plug-in Hybrid",
+    "hydrogen": "Wasserstoff"
+  },
+  "cancel": "Abbrechen",
+  "next": "Weiter",
+  "choose": "Auswählen",
+  "save": "Speichern",
+  "contact_information": {
+    "app_bar_title": "Kontaktinformationen",
+    "request_an_invoice": "Rechnung anfordern",
+    "confirm_email": "E-Mail bestätigen",
+    "company_name_title": "Firmenname",
+    "company_name_hint": "Namen hier eingeben",
+    "country_title": "Land",
+    "country_hint": "Land hier eingeben",
+    "city_title": "Stadt",
+    "city_hint": "Stadt hier eingeben",
+    "address_title": "Adresse",
+    "address_hint": "Adresse hier eingeben",
+    "house_num_title": "Hausnummer",
+    "house_num_hint": "Hier eingeben",
+    "postal_code_title": "Postleitzahl",
+    "postal_code_hint": "Hier eingeben",
+    "create_account": "Konto erstellen?",
+    "set_password": "Passwort festlegen"
+  },
+  "payment_method": {
+    "app_bar_title": "Zahlungsmethode",
+    "proceed_to_checkout": "Zur Kasse gehen",
+    "credit_card": "Kreditkarte",
+    "paypal": "Paypal",
+    "klarna": "Klarna",
+    "sofort_uberweisung": "Sofort Überweisung",
+    "pay_now": "Jetzt bezahlen"
+  },
+  "checkout": {
+    "app_bar_title": "Zur Kasse",
+    "name_label": "Name",
+    "license_pate_number": "Kennzeichennummer",
+    "date_time": "Datum & Uhrzeit",
+    "order_summary": "Bestellübersicht",
+    "package": "Paket",
+    "additional_fee": "Zusätzliche Gebühr",
+    "sub_total": "Zwischensumme",
+    "total_amount": "Gesamtbetrag",
+    "checkout": "Zur Kasse"
+  },
+  "order_summary": {
+    "app_bar_title": "Bestellübersicht",
+    "congratulation": "Herzlichen Glückwunsch",
+    "success_message": "Ihre Bestellung wurde erfolgreich aufgegeben",
+    "back_to_home": "Zurück zur Startseite"
+  },
+  "drawer": {
+    "account_settings": "Kontoeinstellungen",
+    "vignette": "Meine Vignetten",
+    "payment": "Zahlungen",
+    "news": "News",
+    "notification": "Benachrichtigungen",
+    "settings": "Einstellungen",
+    "imprint": "Impressum",
+    "support": "Support",
+    "term_conditions": "AGB",
+    "privacy": "Datenschutzrichtlinie",
+    "sign_out": "Abmelden",
+    "faq": "FAQ"
+  },
+  "news": {
+    "app_bar_title": "News",
+    "read_more": "Mehr"
+  },
+  "vignettes": {
+    "app_bar_title": "Vignetten",
+    "active": "Aktiv",
+    "expired": "Abgelaufen",
+    "downloadPdf": "PDF herunterladen",
+    "extend": "Verlängern",
+    "order_date": "Bestelldatum",
+    "validity_date": "Gültigkeitsdatum",
+    "vignette_no_history": "Keine Vignetten vorhanden"
+  },
+  "personal_settings": {
+    "personal_details": "Persönliche Details",
+    "company_details": "Firmendetails"
+  },
+  "validation": {
+    "password": "Bitte geben Sie ein gültiges Passwort ein",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "password_misMatch": "Bitte stellen Sie sicher, dass beide Passwortfelder den gleichen Wert haben.",
+    "required_filed": "Bitte füllen Sie das Pflichtfeld aus.",
+    "validate_gender": "Bitte füllen Sie das Pflichtfeld aus."
+  },
+  "server": {
+    "credentials_exception": "Ungültige Anmeldedaten.",
+    "customer_exist_exception": "Kunde existiert bereits.",
+    "internal_exception": "Oops! Etwas ist auf unserer Seite schiefgegangen. Bitte versuchen Sie es später erneut.",
+    "internet_exception": "Keine Internetverbindung. Bitte überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.",
+    "unexpected_exception": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es später erneut oder kontaktieren Sie den Support für Unterstützung.",
+    "user_not_exist": "Kunde existiert nicht.",
+    "try_again": "Erneut versuchen",
+    "no_route_text": "Es gibt keine Ergebnisse",
+    "unAuthenticate_exception": "Nicht berechtigt"
+  },
+  "reset_password": {
+    "hint": "Bitte geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben",
+    "app_bar_title": "Passwort zurücksetzen",
+    "send": "Senden",
+    "success_message": "Bitte überprüfen Sie Ihren E-Mail-Posteingang."
+  },
+  "log_out_pop_up": {
+    "content": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "title": "Abmelden",
+    "confirm_text": "Abmelden",
+    "cancel_text": "Abbrechen"
+  },
+  "not_available_product": {
+    "coming_soon_text": "Sie können derzeit keine Produkte für diese Strecke bei uns kaufen.",
+    "coming_soon_title": "Kommt bald!",
+    "text": "Für die von Ihnen gewählte Strecke fallen keine Gebühren an!",
+    "title": "KOSTENLOSE FAHRT!"
+  },
+  "one_option_dialog": {
+    "date_error": "Das Startdatum sollte vor dem Enddatum liegen",
+    "title": "Hinweis",
+    "button_text": "OK"
+  },
+  "defined_countries": {
+    "austria": "Österreich",
+    "slovenia": "Slowenien",
+    "switzerland": "Schweiz",
+    "hungary": "Ungarn",
+    "czech": "Tschechien",
+    "romania": "Romänien"
+  },
+  "stripe_payment_pop_up_error": {
+    "try_again": "Versuchen Sie es noch einmal",
+    "cancel": "Abbrechen",
+    "text": "Bei Ihrer Zahlung ist etwas schief gelaufen",
+    "title": "Etwas ist schiefgelaufen"
+  },
+  "paypal_payment_pop_up_error": {
+    "try_again": "Versuchen Sie es noch einmal",
+    "cancel": "Abrechen",
+    "text": "Bei Ihrer Zahlung ist etwas schief gelaufen",
+    "title": "Etwas ist schiefgelaufen"
+  },
+  "feature_coming_soon": "Bald verfügbar",
+  "settings": {
+    "app_bar_name": "Profileinstellungen",
+    "change_language_title": "Sprache",
+    "english": "English",
+    "german": "German"
+  },
+  "news_details": {
+    "app_bar_name": "News Blog"
+  },
+  "faq": {
+    "question1": "Was ist die e-Vignette und wie funktioniert sie?",
+    "question2": "Wie kann ich eine e-Vignette kaufen?",
+    "question3": "Kann ich eine e-Vignette für mehr als ein Fahrzeug kaufen?",
+    "question4": "Kann ich eine e-Vignette für ein gemietetes Auto kaufen?",
+    "question5": "Kann ich eine E-Vignette für ein Motorrad oder ein anderes nicht motorisiertes Fahrzeug kaufen?",
+    "question6": "Wie kann ich die E-Vignette bezahlen?",
+    "question7": "Wo wird die elektronische Vignette nach dem Kauf aufbewahrt?",
+    "question8": "Wie aktiviere ich die E-Vignette?",
+    "question9": "Wie lange ist meine E-Vignette gültig?",
+    "question10": "Muss ich die elektronische Vignette an die Windschutzscheibe meines Fahrzeugs kleben?",
+    "question11": "Gibt es Rabatte für E-Vignetten?",
+    "question12": "Kann ich die E-Vignette auf allen Straßen und Autobahnen des Landes benutzen?",
+    "question13": "Kann ich die E-Vignette eines Landes in einem anderen Land benutzen?",
+    "question14": "Was muss ich tun, wenn ich ein Problem mit meiner E-Vignette habe?",
+    "question15": "Kann ich die Gültigkeit meiner E-Vignette verlängern, wenn ich sie brauche?",
+    "question16": "Was passiert, wenn ich vergesse, meine E-Vignette zu kaufen?",
+    "question17": "Was ist der Unterschied zwischen den Fahrzeugtypen 2A und 2B in Slowenien?",
+    "question18": "Kann ich meine E-Vignette auf eine andere Person übertragen, wenn ich sie nicht benutzen kann?",
+    "question19": "Kann ich eine Rückerstattung erhalten, wenn ich meine E-Vignette nicht benutze?",
+    "question20": "Gibt es eine 1 Tagesvignette für Österreich?",
+    "question21": "Was ist der Unterschied zwischen Streckenmaut und digitaler Vignette?",
+    "question22": "Kann ich direkt nach Zahlung das vignettenpflichtige Land befahren?",
+    "body": {
+      "question1": {
+        "description": "Die e-Vignette ist eine elektronische Alternative zur herkömmlichen Papier-Vignette, die für die Benutzung von Autobahnen und Schnellstraßen benötigt wird. Beim Kauf einer e-Vignette wird das Kennzeichen des Fahrzeugs zusammen mit der Nutzungsdauer in einer Datenbank erfasst und verschlüsselt gespeichert."
+      },
+      "question2": {
+        "description": "Um eine e-Vignette zu kaufen, können Sie in der Regel folgende Schritte durchführen:",
+        "sub_description": "Hier sind einige zusätzliche Tipps, die Sie beachten sollten: ",
+        "subtitle1": {
+          "title": "Online-Kauf: ",
+          "description": "Besuchen Sie die offizielle Website oder das Online-Portal, das für die Ausstellung von e-Vignetten in dem Land zuständig ist, in dem Sie die Straßen nutzen möchten. Sie müssen Informationen wie Ihr Kennzeichen und die gewünschte Gültigkeitsdauer der Vignette eingeben."
+        },
+        "subtitle2": {
+          "title": "Mobile App: ",
+          "description": "Laden Sie die entsprechende mobile App herunter, falls verfügbar, und tätigen Sie den Kauf direkt über Ihr Smartphone."
+        },
+        "subtitle3": {
+          "title": "Verkaufsstellen: ",
+          "description": "e-Vignetten können auch an physischen Verkaufsstellen wie Tankstellen, bei Vertriebspartnern oder an Grenzübergängen erworben werden."
+        },
+        "subtitle4": {
+          "title": "Vorherige Registrierung: ",
+          "description": "Bei manchen Systemen müssen Sie sich möglicherweise vor dem Kauf registrieren oder ein Benutzerkonto erstellen."
+        },
+        "subtitle5": {
+          "title": "Zahlungsmethoden: ",
+          "description": "Halten Sie Ihre Zahlungsinformationen bereit, da die Zahlung meist per Kreditkarte, Banküberweisung oder manchmal auch mit anderen Online-Zahlungsmethoden erfolgt."
+        },
+        "subtitle6": {
+          "title": "Gültigkeit: ",
+          "description": "Wählen Sie, wie lange die Vignette gültig sein soll. Es gibt in der Regel Optionen für Tages-, Wochen-, Monats- oder Jahresvignetten."
+        },
+        "subtitle7": {
+          "title": "Bestätigung und Nachweis: ",
+          "description": "Nach dem Kauf erhalten Sie eine Bestätigung, die Sie ausdrucken oder elektronisch speichern sollten, um bei Bedarf einen Nachweis der Mautzahlung vorlegen zu können."
+        }
+      },
+      "question3": {
+        "description": "Sie können e-Vignetten für mehrere Fahrzeuge kaufen, allerdings muss in der Regel für jedes Fahrzeug eine separate e-Vignette erworben werden, da die Vignette an das Kennzeichen des Fahrzeugs gebunden ist. Beim Kaufprozess geben Sie einfach die Kennzeichen der verschiedenen Fahrzeuge ein und tätigen für jedes einen separaten Kauf."
+      },
+      "question4": {
+        "description": "Sie können eine e-Vignette für ein gemietetes Auto kaufen. Die Prozedur ist ähnlich wie beim Kauf einer Vignette für ein eigenes Fahrzeug, wobei einige besondere Aspekte zu beachten sind:",
+        "subtitle1": {
+          "title": "Kennzeicheninformation: ",
+          "description": "Sie benötigen das Kennzeichen des Mietfahrzeugs, um die Vignette zu erwerben. Stellen Sie sicher, dass Sie diese Information erhalten, bevor Sie die Vignette kaufen."
+        },
+        "subtitle2": {
+          "title": "Kaufzeitpunkt: ",
+          "description": "Kaufen Sie die Vignette idealerweise erst nachdem Sie das Fahrzeug übernommen haben, um sicherzustellen, dass Sie das korrekte Kennzeichen und die entsprechenden Fahrzeugdaten zur Hand haben."
+        },
+        "subtitle3": {
+          "title": "Mietdauer: ",
+          "description": "Achten Sie darauf, dass die Gültigkeitsdauer der e-Vignette mit der Mietdauer des Fahrzeugs übereinstimmt."
+        },
+        "subtitle4": {
+          "title": "Rückerstattung und Übertragung: ",
+          "description": "Beachten Sie, dass e-Vignetten in der Regel nicht erstattet werden können und an ein bestimmtes Kennzeichen gebunden sind. Sie können also nicht von einem Fahrzeug auf ein anderes übertragen werden."
+        },
+        "subtitle5": {
+          "title": "Kommunikation mit der Vermietung: ",
+          "description": "Informieren Sie das Mietwagenunternehmen über Ihren Kauf der e-Vignette, da einige Unternehmen dies möglicherweise bereits im Mietpreis inbegriffen haben oder spezielle Regelungen für Mautgebühren anbieten."
+        }
+      },
+      "question5": {
+        "description": "Die e-Vignette ist in der Regel für motorisierte Fahrzeuge gedacht, insbesondere für Autos und Lastwagen bis zu einem bestimmten Gewicht. Für Motorräder gibt es oft spezielle Vignetten, die Sie kaufen können, da sie in der Kategorie der motorisierten Fahrzeuge enthalten sind und ebenfalls die Straßen benutzen, für die Mautgebühren anfallen. Für Fahrräder, Pferdegespanne und andere nicht motorisierte Fahrzeuge werden in der Regel keine Mautgebühren erhoben, und dementsprechend ist keine Vignette erforderlich. Diese Fahrzeugtypen sind meist von der Mautpflicht befreit, da sie nicht die Autobahnen und Schnellstraßen in der Weise nutzen, wie es bei motorisierten Fahrzeugen der Fall ist."
+      },
+      "question6": {
+        "description": "Die Zahlung für eine e-Vignette können Sie auf verschiedene Weise vornehmen, je nachdem, welche Optionen vom Anbieter oder vom System, das die Vignette ausstellt, angeboten werden. Hier sind einige gängige Zahlungsmethoden: Kreditkarten, Debitkarten, PayPal, Google Pay, Apple Pay, Lokale Online Zahlungsdienste"
+      },
+      "question7": {
+        "description": "Nach dem Kauf einer e-Vignette werden die Informationen in der Regel elektronisch in einer zentralen Datenbank gespeichert. Im Gegensatz zu traditionellen Papier-Vignetten, die auf die Windschutzscheibe geklebt werden, gibt es bei der e-Vignette keinen physischen Aufkleber. Die Registrierung ist vollständig digital. Nach dem Kauf erhalten Sie normalerweise einen Kaufbeleg oder eine Bestätigung per E-Mail oder in der App, die Sie genutzt haben. Es ist ratsam, diese Bestätigung zu speichern, um bei Bedarf nachweisen zu können, dass Sie die Mautgebühren entrichtet haben."
+      },
+      "question8": {
+        "description": "Die Aktivierung einer e-Vignette erfolgt automatisch zum Zeitpunkt des Kaufs, es sei denn, es wird eine andere Startzeit angegeben. Es ist wichtig zu beachten, dass der genaue Prozess und die Anforderungen je nach Land und zuständiger Behörde variieren können."
+      },
+      "question9": {
+        "description": "Die Gültigkeitsdauer einer e-Vignette variiert je nach dem von Ihnen gewählten Produkt und dem Land, in dem sie verwendet wird. Optionen:",
+        "subtitle1": {
+          "title": "Kurzzeit-Vignetten: ",
+          "description": "Diese sind oft für eine kurze Dauer wie einen Tag, eine Woche oder einen Monat verfügbar. Sie eignen sich für kurze Reisen oder Urlaube."
+        },
+        "subtitle2": {
+          "title": "Jahresvignetten: ",
+          "description": "Diese Option ist für Personen gedacht, die regelmäßig oder über längere Zeiträume Autobahnen und Schnellstraßen nutzen. Eine Jahresvignette ist normalerweise 12 Monate ab dem Startdatum oder dem angegebenen Gültigkeitsjahr gültig."
+        },
+        "subtitle3": {
+          "title": "Flexibles Startdatum: ",
+          "description": "Einige e-Vignetten bieten die Möglichkeit, das Startdatum zu wählen, so dass Sie die Vignette im Voraus kaufen und ihre Aktivierung für einen bestimmten Zeitpunkt in der Zukunft planen können."
+        }
+      },
+      "question10": {
+        "description": "Bei einer elektronischen Vignette (e-Vignette) müssen Sie nichts an der Windschutzscheibe Ihres Fahrzeugs befestigen. Die e-Vignette ist eine digitale Version der traditionellen Papier-Vignette und ist an das Kennzeichen Ihres Fahrzeugs gebunden, nicht an einen physischen Aufkleber."
+      },
+      "question11": {
+        "description": "Im Regelfall sind die Kosten für Klebevignetten und elektronische Vignetten identisch. Preisvorteile können durch die Auswahl der passenden Vignette entstehen. Eine Jahresvignette kann beispielsweise günstiger sein, je nach persönlichem Fahrprofil.   "
+      },
+      "question12": {
+        "description": "Die Gültigkeit einer e-Vignette für alle Straßen und Autobahnen hängt von den spezifischen Mautregelungen des jeweiligen Landes ab. In vielen Ländern berechtigt die e-Vignette zur Benutzung aller mautpflichtigen Autobahnen und Schnellstraßen. Es gibt jedoch auch Fälle, in denen bestimmte Straßen, Brücken, Tunnel oder Streckenabschnitte separat abgerechnet und nicht durch die allgemeine Vignette abgedeckt werden."
+      },
+      "question13": {
+        "description": "Nein, e-Vignetten sind in der Regel länderspezifisch und gelten nur für das Land, in dem sie ausgestellt wurden. Jedes Land hat sein eigenes Mautsystem und seine eigenen Regeln bezüglich der Straßennutzungsgebühren. Eine e-Vignette, die Sie für ein Land kaufen, ist nicht gültig für die Nutzung von Straßen oder Autobahnen in einem anderen Land."
+      },
+      "question14": {
+        "description": "Wenn Sie ein Problem mit Ihrer e-Vignette haben, sollten Sie folgende Schritte unternehmen:",
+        "subtitle1": {
+          "title": "Überprüfen Sie die Details: ",
+          "description": "Stellen Sie sicher, dass alle Informationen, die Sie bei der Registrierung Ihrer e-Vignette angegeben haben, korrekt sind. Dazu gehört das Kennzeichen, der Fahrzeugtyp und die Gültigkeitsdauer."
+        },
+        "subtitle2": {
+          "title": "Kaufnachweis sichern: ",
+          "description": "Halten Sie Ihren Kaufbeleg oder eine andere Form des Nachweises bereit, der bestätigt, dass Sie die e-Vignette gekauft haben."
+        },
+        "subtitle3": {
+          "title": "Kontaktieren Sie den Kundenservice: ",
+          "description": "Wenden Sie sich an den Kundendienst des Anbieters, von dem Sie die e-Vignette gekauft haben. Viele Probleme lassen sich über den Support lösen."
+        },
+        "subtitle4": {
+          "title": "Online-Konto prüfen: ",
+          "description": "Wenn Sie ein Online-Konto für den Kauf der Vignette verwendet haben, überprüfen Sie dieses Konto auf Informationen zu Ihrem Kauf und dem Status Ihrer Vignette."
+        },
+        "subtitle5": {
+          "title": "Fehlermeldung dokumentieren: ",
+          "description": "Wenn Sie beim Zugriff auf Ihr Online-Konto oder bei anderen Aspekten des e-Vignette-Systems auf Fehlermeldungen stoßen, dokumentieren Sie diese, um sie dem Kundendienst vorzulegen."
+        },
+        "subtitle6": {
+          "title": "Technische Hilfe: ",
+          "description": "Sollte es ein technisches Problem geben, wie z.B. ein Fehler bei der Registrierung oder der Zahlung, bitten Sie um technische Unterstützung vom Serviceanbieter."
+        },
+        "subtitle7": {
+          "title": "Rechtzeitig handeln: ",
+          "description": "Bei Problemen mit der Vignette ist es wichtig, schnell zu handeln, insbesondere wenn Sie planen, bald eine mautpflichtige Straße zu benutzen."
+        },
+        "subtitle8": {
+          "title": "Mögliche Rückerstattung oder Ersatz: ",
+          "description": "Erkundigen Sie sich nach den Bedingungen für eine mögliche Rückerstattung oder einen Ersatz, falls Ihre Vignette fehlerhaft sein sollte."
+        }
+      },
+      "question15": {
+        "description": "Die Möglichkeit, die Gültigkeit einer e-Vignette zu verlängern, hängt von den spezifischen Richtlinien des Landes ab, in dem die Vignette ausgestellt wurde. Hier sind einige allgemeine Richtlinien zu diesem Thema:",
+        "subtitle1": {
+          "title": "Keine Verlängerung: ",
+          "description": "Viele Mautsysteme bieten keine Verlängerung für eine bereits erworbene e-Vignette an. Stattdessen müssen Sie eine neue Vignette kaufen, wenn die alte abgelaufen ist."
+        },
+        "subtitle2": {
+          "title": "Neukauf vor Ablauf: ",
+          "description": "Wenn Sie weiterhin mautpflichtige Straßen benutzen möchten, ist es in der Regel notwendig, eine neue e-Vignette zu erwerben, bevor die aktuelle Gültigkeitsdauer endet."
+        },
+        "subtitle3": {
+          "title": "Automatische Erneuerungsoptionen: ",
+          "description": "Einige Systeme können eine automatische Erneuerungsfunktion anbieten, insbesondere wenn Sie ein Abonnement für eine Jahresvignette haben."
+        },
+        "subtitle4": {
+          "title": "Verschiedene Gültigkeitsdauern: ",
+          "description": "Sie können oft zwischen verschiedenen Gültigkeitsdauern wählen, wenn Sie eine e-Vignette kaufen, wie Tages-, Wochen-, Monats- oder Jahresvignetten."
+        }
+      },
+      "question16": {
+        "description": "Wenn Sie vergessen, eine e-Vignette zu kaufen, bevor Sie mautpflichtige Straßen benutzen, riskieren Sie in den meisten Ländern eine Geldstrafe. Die Durchsetzung und die Höhe der Strafen variieren je nach Land, aber hier sind einige allgemeine Punkte, die Sie beachten sollten:",
+        "subtitle1": {
+          "title": "Strafen: ",
+          "description": "Mautkontrollen erfolgen in vielen Ländern sowohl elektronisch als auch durch Verkehrspolizei-Überprüfungen. Wenn bei diesen Kontrollen festgestellt wird, dass für Ihr Fahrzeug keine gültige Vignette vorliegt, wird in der Regel ein Bußgeld erhoben."
+        },
+        "subtitle2": {
+          "title": "Nachträglicher Kauf: ",
+          "description": "In einigen Fällen kann es möglich sein, eine Vignette nachträglich zu kaufen, falls Sie dies unmittelbar nach Feststellung des Versäumnisses tun. Manche Länder bieten eine Nachfrist an, in der Sie die Vignette ohne zusätzliche Kosten nachlösen können."
+        },
+        "subtitle3": {
+          "title": "Höhere Kosten bei Kontrollen: ",
+          "description": "Wenn Sie bei einer Verkehrskontrolle ohne gültige Vignette erwischt werden, sind die Strafen oft deutlich höher als der Preis für die Vignette selbst."
+        }
+      },
+      "question17": {
+        "description": "In Slowenien unterscheidet man zwischen den Mautklassen 2A und 2B für zweispurige Fahrzeuge mit einem Gesamtgewicht von bis zu 3,5 Tonnen. Der wesentliche Unterschied zwischen den beiden Klassen liegt in der Höhe über der Vorderachse:",
+        "subtitle1": {
+          "title": "Klasse 2A: ",
+          "description": "Umfasst PKWs und Wohnmobile, einschließlich solcher mit Anhängern, mit einem zulässigen Gesamtgewicht von bis zu 3,5 Tonnen."
+        },
+        "subtitle2": {
+          "title": "Klasse 2B: ",
+          "description": "Bezieht sich auf Fahrzeuge mit zwei Achsen und einer Höhe der Vorderachse von bis zu 1,30 Metern, die ebenfalls ein zulässiges Gesamtgewicht von bis zu 3,5 Tonnen aufweisen"
+        }
+      },
+      "question18": {
+        "description": "In der Regel ist die e-Vignette an das Fahrzeug und insbesondere an das Kennzeichen gebunden und nicht übertragbar. Dies bedeutet, dass die e-Vignette für das registrierte Fahrzeug und für den im Kauf angegebenen Zeitraum gültig ist und nicht auf eine andere Person übertragen werden kann, da das Kennzeichen des Fahrzeugs unveränderlich ist und die Nutzungsberechtigung an dieses Kennzeichen geknüpft ist."
+      },
+      "question19": {
+        "description": "Die Möglichkeit einer Rückerstattung für eine e-Vignette hängt von den spezifischen Richtlinien des Landes oder des Anbieters ab, bei dem die Vignette gekauft wurde. Viele Mautsysteme erlauben keine Rückerstattungen nach dem Kauf einer e-Vignette, da sie als eine Art Steuer für die Nutzung der Infrastruktur betrachtet wird und die Dienstleistung als \"geliefert\" gilt, sobald die Vignette gültig ist."
+      },
+      "question20": {
+        "description": "Ab 2024 wird in Österreich eine 1 Tagesvignette (auch als elektronische Vignette verfügbar) angeboten. "
+      },
+      "question21": {
+        "description": "Die Streckenmaut und die digitale Vignette sind zwei verschiedene Systeme zur Erhebung von Straßennutzungsgebühren:",
+        "sub_description": "Während die digitale Vignette eine pauschale Erlaubnis für die Nutzung eines gesamten Straßennetzes für einen festen Zeitraum darstellt, wird die Streckenmaut speziell für einzelne Strecken mit besonderen Infrastrukturbauwerken oder hohem Investitionsaufwand erhoben.",
+        "subtitle1": {
+          "title": "Streckenmaut: ",
+          "description": "Sie wird für die Benutzung bestimmter Straßenabschnitte, wie etwa große Brücken, Tunnel oder Bergpässe, erhoben. Die Gebühr wird nur für das tatsächliche Passieren dieser speziellen Strecken fällig und ist unabhängig von der Dauer der Straßennutzung. In Österreich wird für einige besondere Strecken wie die Brennerautobahn, die Tauernautobahn oder den Arlbergtunnel eine Streckenmaut erhoben."
+        },
+        "subtitle2": {
+          "title": "Digitale Vignette: ",
+          "description": "Sie ist eine zeitbasierte Gebühr, die das Recht verleiht, das mautpflichtige Straßennetz eines Landes für den gekauften Zeitraum (z.B. 10 Tage, 2 Monate oder ein Jahr) zu nutzen. Die digitale Vignette ist eine elektronische Version der traditionellen Klebevignette und an das Kennzeichen des Fahrzeugs gebunden."
+        }
+      },
+      "question22": {
+        "description": "Normalerweise können Sie direkt nach der Zahlung und dem Erwerb einer digitalen Vignette die vignettenpflichtigen Straßen des entsprechenden Landes befahren. Die digitale Vignette wird in der Regel sofort nach dem Kauf aktiviert, es sei denn, es wurde ein späterer Beginn der Gültigkeitsdauer festgelegt. Es ist jedoch wichtig, sicherzustellen, dass Sie eine Bestätigung über den Kauf der Vignette erhalten haben und dass die Vignette korrekt für Ihr Fahrzeug, gemäß dem angegebenen Kennzeichen, registriert wurde. Bewahren Sie die Kaufbestätigung sicher auf, um bei Bedarf den Kauf nachweisen zu können."
+      }
+    }
+  }
+}
